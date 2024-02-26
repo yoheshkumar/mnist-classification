@@ -13,14 +13,18 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 
 ### STEP 1:
+Write your own steps
 
 ### STEP 2:
 
 ### STEP 3:
 
-Write your own steps
 
 ## PROGRAM
+
+### Name:
+### Register Number:
+
 
 Include your code here
 
@@ -43,3 +47,4 @@ Include confusion matrix here
 Include your sample input and output for your hand written images.
 
 ## RESULT
+Include your result here.
